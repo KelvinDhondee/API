@@ -3,7 +3,7 @@
 
 ## 📘 Overview
 
-This project demonstrates how to **retrieve, analyze, and compare weather data** using the [OpenWeather API](https://openweathermap.org/api). 
+This project demonstrates how to **retrieve, analyse, and compare weather data** using the [OpenWeather API](https://openweathermap.org/api). 
 
 The notebook connects to the OpenWeather API to:
 - Retrieve **current** and **historical** weather data for multiple global cities.
